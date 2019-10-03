@@ -1,6 +1,7 @@
 #include<stdio.h>
 void main()
 {
-    printf("hello world ");
-    printf("\nthis shows working of github");
+    printf("\nHello world... ");
+    printf("\nThis shows working of github ...");
+    printf("\nnext line");
 }
