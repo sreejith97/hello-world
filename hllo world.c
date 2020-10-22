@@ -7,4 +7,5 @@ void main()
     printf("heepi guys...");
     printf("github");
     printf("NAK here!!");
+    printf("NAK gone");
 }
