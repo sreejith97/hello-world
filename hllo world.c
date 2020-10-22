@@ -4,7 +4,8 @@ void main()
     printf("\nHello world... ");
     printf("\nThis shows working of git ...");
     printf("\nnext line");
-    printf("sugamanoooo....");
+    printf("heepi guys...");
     printf("github");
     printf("NAK here!!");
+    printf("NAK gone");
 }
